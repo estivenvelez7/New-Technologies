@@ -46,3 +46,34 @@
 # kmsT = round(kmMarte/luz)
 
 # print(kmsT)
+
+
+#####Exercise 6###### 
+
+# pi = 3.1416
+# circ = pi * 50
+
+# resultcm = circ/100000
+# resultkm = round(1 / resultcm)
+
+# print(resultkm)
+
+
+#####Exercise 7###### 
+
+# tang = 0.40
+# sombra = 20 / tang 
+
+# print(round(sombra)) 
+
+
+####Exercise 8######
+
+# ed1=  float(input('Enter the age 1: '))
+# ed2=  float(input('Enter the age 2: '))
+
+# if ed1 == ed2:
+#     print ("They are equal")
+# else:
+#     print("They are not the same")
+
