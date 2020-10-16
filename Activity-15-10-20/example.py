@@ -77,3 +77,31 @@
 # else:
 #     print("They are not the same")
 
+
+####Exercise 9#### 
+
+# from datetime import date 
+
+# def calcularAg(birthdate): 
+#     current_date = date.today()
+#     result = current_date.year - birthdate.year 
+#     return result
+
+# birthdate = date (1999, 5, 25)
+# age = calcularAg(birthdate)
+# months = age * 12
+
+# print('The age in months is:' , months)
+
+
+####Exercise 10#### 
+
+# spanish = float(input("Enter spanish definitive: "))
+# math = float(input("Enter math  definitive: "))
+# economy = float(input("Enter economy definitive: "))
+# programming = float(input("Enter programming definitive: "))
+# english = float(input("Enter english definitive: "))
+
+# prom = (spanish+math+economy+programming+english)/5
+
+# print(f"The prom of student is: {prom}")
