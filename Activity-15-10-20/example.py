@@ -12,14 +12,14 @@
 # print('The area of triangle is: ' , r)
 
 
-######Exercise 2#######
+#####Exercise 2#######
 
-# usd = float(input("Enter de USD: "))
-# cop = 3850
+usd = float(input("Enter de USD: "))
+cop = 3850
 
-# convertUsd = usd * cop 
+convertUsd = usd * cop 
 
-# print('Result: ' , convertUsd)
+print('Result: ' , convertUsd)
 
 
 #####Exercise 3######
