@@ -11,4 +11,3 @@ for person in people_list:
         print(f"The name {person} start with C")
     else:
         print(f"The name {person} not start with C") 
-print("prueba")
